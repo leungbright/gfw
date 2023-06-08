@@ -27,3 +27,33 @@ imagez.biz
 91p49.com
 23img.com
 fuli16.lv
+DOMAIN-SUFFIX,629cgw.com,✈️ 节点选择 // Added for: http://629cgw.com/post/2831.html
+DOMAIN-SUFFIX,mxshm.top,✈️ 节点选择 // Added for: http://www.mxshm.top/
+DOMAIN,sdk.open.talk.getui.com,DIRECT // Added for: sdk.open.talk.getui.com:5224
+DOMAIN,mojie.pw,✈️ 节点选择 // Added for: mojie.pw:443
+DOMAIN-SUFFIX,sdk.open.talk.gepush.com,DIRECT // Added for: sdk.open.talk.gepush.com:5224
+DOMAIN,tihg.fun,✈️ 节点选择 // Added for: https://tihg.fun/
+DOMAIN,feeaimg.com,✈️ 节点选择 // Added for: feeaimg.com:443
+DOMAIN,data.flurry.com,DIRECT // Added for: data.flurry.com:443
+DOMAIN,collect.alipay.com,🌐 全球直连 // Added for: collect.alipay.com:443
+DOMAIN,static.zztt87.com,✈️ 节点选择 // Added for: static.zztt87.com:443
+DOMAIN,zztt35.com,✈️ 节点选择 // Added for: zztt35.com:443
+DOMAIN,jic.talkingdata.com,DIRECT // Added for: jic.talkingdata.com:443
+DOMAIN-SUFFIX,killcovid2021.com,✈️ 节点选择 // Added for: la2.killcovid2021.com:443
+DOMAIN-SUFFIX,wonderfulday30.live,✈️ 节点选择 // Added for: i.wonderfulday30.live:443
+DOMAIN,shadowshare.v2cross.com,✈️ 节点选择 // Added for: shadowshare.v2cross.com:443
+DOMAIN,openit.daycat.space,✈️ 节点选择 // Added for: openit.daycat.space:443
+DOMAIN-SUFFIX,fuli.lv,✈️ 节点选择 // Added for: http://fuli.lv/
+DOMAIN-SUFFIX,jp6.se,✈️ 节点选择
+DOMAIN-SUFFIX,123ds.org,✈️ 节点选择 // Added for: m.123ds.org:443
+DOMAIN-SUFFIX,b5200.net,✈️ 节点选择 // Added for: http://www.b5200.net/147_147321/186830408.html
+DOMAIN-SUFFIX,imagez.biz,✈️ 节点选择 // Added for: imagez.biz:443
+DOMAIN-SUFFIX,91p65.com,✈️ 节点选择 // Added for: i.91p65.com:443
+DOMAIN-SUFFIX,91p51.com,✈️ 节点选择 // Added for: img.91p51.com:443
+DOMAIN-SUFFIX,91p48.com,✈️ 节点选择 // Added for: i.91p48.com:443
+DOMAIN-SUFFIX,91p22.net,✈️ 节点选择 // Added for: i.91p22.net:443
+DOMAIN-SUFFIX,91p47.com,✈️ 节点选择 // Added for: i.91p47.com:443
+DOMAIN-SUFFIX,91p47.com,✈️ 节点选择 // Added for: i.91p47.com:443
+DOMAIN-SUFFIX,91p49.com,✈️ 节点选择 // Added for: cdn77.91p49.com:443
+DOMAIN-SUFFIX,23img.com,✈️ 节点选择 // Added for: 23img.com:443
+DOMAIN-SUFFIX,fuli16.lv,✈️ 节点选择 // Added for: www.fuli16.lv:443
