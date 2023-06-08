@@ -1,1 +1,5 @@
-
+DOMAIN,sdk.open.talk.getui.com,DIRECT // Added for: sdk.open.talk.getui.com:5224
+DOMAIN-SUFFIX,sdk.open.talk.gepush.com,DIRECT // Added for: sdk.open.talk.gepush.com:5224
+DOMAIN,data.flurry.com,DIRECT // Added for: data.flurry.com:443
+DOMAIN,collect.alipay.com,🌐 全球直连 // Added for: collect.alipay.com:443
+DOMAIN,jic.talkingdata.com,DIRECT // Added for: jic.talkingdata.com:443
