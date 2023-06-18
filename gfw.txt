@@ -25,3 +25,4 @@
 .fuli16.lv
 .bihe10.vip
 .henet.uk
+.bulink.xyz
