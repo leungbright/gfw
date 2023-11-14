@@ -31,4 +31,4 @@
 .mxshm.site
 .cloudaccess.icu
 .ins66.com
-vercel.app
+.vercel.app
