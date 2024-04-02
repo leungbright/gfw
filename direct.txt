@@ -21,3 +21,4 @@
 .kin6c1.com
 .cdnlz.com
 .lz-cdn3.com
+.lz-cdn16.com
