@@ -15,3 +15,5 @@
 .tiankongapi.com
 .feisuzyapi.com
 .gsl99.com
+.394tv.com
+.hhzyapi.com
