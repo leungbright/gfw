@@ -14,4 +14,4 @@
 .guangsuapi.com
 .tiankongapi.com
 .feisuzyapi.com
-.suoniapi.com
+.apibdzy.com
