@@ -22,3 +22,4 @@
 .lz-cdn3.com
 .lz-cdn16.com
 .bdzybf9.com
+.apibdzy.com
