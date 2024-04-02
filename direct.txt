@@ -9,3 +9,7 @@
 .gsuus.com
 .ikzybf.com
 .ikunzyapi.com
+.lziapi.com
+.39kan.com
+.guangsuapi.com
+.tiankongapi.com
