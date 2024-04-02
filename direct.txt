@@ -3,4 +3,8 @@
 .data.flurry.com
 .collect.alipay.com
 .jic.talkingdata.com
-
+.fsvod1.com
+.dious.cc
+.hhuus.com
+.gsuus.com
+.ikzybf.com
