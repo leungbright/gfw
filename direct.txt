@@ -13,3 +13,4 @@
 .39kan.com
 .guangsuapi.com
 .tiankongapi.com
+.feisuzyapi.com
