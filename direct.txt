@@ -37,3 +37,4 @@
 .ffzy-online6.com
 .xinlangapi.com
 .wujinapi.com
+.lz-cdn14.com
