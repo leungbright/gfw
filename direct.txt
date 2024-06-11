@@ -38,3 +38,4 @@
 .xinlangapi.com
 .wujinapi.com
 .lz-cdn14.com
+.yzzy1-play.com
