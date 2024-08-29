@@ -1,4 +1,5 @@
 .sdk.open.talk.getui.com
+.gitlab.com
 .sdk.open.talk.gepush.com
 .data.flurry.com
 .collect.alipay.com
