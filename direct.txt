@@ -1,6 +1,7 @@
 .sdk.open.talk.getui.com
 .gitlab.com
 .bfzycdn.com
+.iwewiets.com
 .hmrvideo.com
 .kuaikan-play2.com
 .ffzy-online4.com
