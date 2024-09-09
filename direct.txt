@@ -1,5 +1,10 @@
 .sdk.open.talk.getui.com
 .gitlab.com
+.bfzycdn.com
+.hmrvideo.com
+.kuaikan-play2.com
+.ffzy-online4.com
+.lz-cdn9.com
 .sdk.open.talk.gepush.com
 .data.flurry.com
 .collect.alipay.com
