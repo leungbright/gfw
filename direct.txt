@@ -1,5 +1,4 @@
 .xiuting.cc
-.lz-cdn8.com
 #zzc
 speedtest.net
 plex.tv
