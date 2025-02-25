@@ -1,4 +1,5 @@
 .iwewiets.com
+.ip-ddns.com
 .api.a9a2bc4.com
 .us.kg
 .akmaivideo.cdchuangao.com
